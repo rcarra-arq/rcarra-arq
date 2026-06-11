@@ -1,79 +1,30 @@
-# DevOps / Cloud Learning Journey
-
-I am currently transitioning into Cloud Computing and DevOps, focusing on building practical skills in AWS, Docker, Linux, and CI/CD pipelines.
-
+DevOps / Cloud Learning Journey
 ---
+Building practical skills in Cloud Computing and DevOps, focusing on AWS, Docker, Linux, and CI/CD pipelines.
 
-## Technologies
+Technologies: Docker · Git & GitHub · GitHub Actions · Linux · AWS (EC2, S3, IAM, VPC)
 
-- Docker  
-- Git & GitHub  
-- GitHub Actions (CI/CD)  
-- Linux (VM environments)  
-- AWS fundamentals (in progress)
+Projects
+terraform-aws-ec2-lab — EC2 com Terraform (IaC puro)  - https://github.com/rcarra-arq/cloud-monitoring-lab
+Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions https://github.com/rcarra-arq/terraform-docker-lab
+Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions https://github.com/rcarra-arq/terraform-aws-ec2-lab
 
+Currently focused on: AWS Cloud Practitioner certification · CI/CD automation · Linux and networking
+
+Goal: Junior Cloud / DevOps / Infrastructure role
 ---
-
-## Projects
-
-Cloud Monitoring DevOps Lab  
-CI/CD pipeline project using Docker and GitHub Actions.
-
+🇧🇷 Jornada DevOps / Cloud
 ---
+Desenvolvendo habilidades práticas em Cloud Computing e DevOps, com foco em AWS, Docker, Linux e pipelines de CI/CD.
 
-## Current Focus
+Tecnologias: Docker · Git & GitHub · GitHub Actions · Linux · AWS (EC2, S3, IAM, VPC)
 
-- AWS Cloud Practitioner preparation  
-- CI/CD pipelines  
-- Docker containerization  
-- Linux and networking fundamentals  
+Projetos
+terraform-aws-ec2-lab — EC2 com Terraform (IaC puro)  - https://github.com/rcarra-arq/cloud-monitoring-lab
+Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions https://github.com/rcarra-arq/terraform-docker-lab
+Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions https://github.com/rcarra-arq/terraform-aws-ec2-lab
 
+Foco atual: Certificação AWS Cloud Practitioner · Automação com CI/CD · Linux e redes
+
+Objetivo: Atuar como Cloud / DevOps / Infraestrutura Júnior
 ---
-
-## Goals
-
-- Cloud / DevOps / Infrastructure (Junior) role  
-- Build scalable cloud infrastructure skills  
-- Work with automation and CI/CD pipelines  
-
----
-
-# 🇧🇷 Português
-
-## Jornada DevOps / Cloud
-
-Estou em transição para Cloud Computing e DevOps, focando no desenvolvimento de habilidades práticas em AWS, Docker, Linux e pipelines de CI/CD.
-
----
-
-## Tecnologias
-
-- Docker  
-- Git & GitHub  
-- GitHub Actions (CI/CD)  
-- Linux (ambientes em VM)  
-- Fundamentos de AWS (em andamento)
-
----
-
-## Projetos
-
-Cloud Monitoring DevOps Lab  
-Projeto de pipeline CI/CD utilizando Docker e GitHub Actions.
-
----
-
-## Foco atual
-
-- Preparação para AWS Cloud Practitioner  
-- Pipelines CI/CD  
-- Conteinerização com Docker  
-- Linux e redes  
-
----
-
-## Objetivos
-
-- Atuar como Cloud / DevOps / Infraestrutura (Júnior)  
-- Desenvolver habilidades em infraestrutura de cloud escalável  
-- Trabalhar com automação e pipelines de CI/CD  
