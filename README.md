@@ -5,9 +5,14 @@ Building practical skills in Cloud Computing and DevOps, focusing on AWS, Docker
 Technologies: Docker · Git & GitHub · GitHub Actions · Linux · AWS (EC2, S3, IAM, VPC)
 
 Projects
-terraform-aws-ec2-lab — EC2 com Terraform (IaC puro)  - https://github.com/rcarra-arq/cloud-monitoring-lab
-Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions https://github.com/rcarra-arq/terraform-docker-lab
-Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions https://github.com/rcarra-arq/terraform-aws-ec2-lab
+terraform-aws-ec2-lab — EC2 com Terraform (IaC puro) 
+https://github.com/rcarra-arq/cloud-monitoring-lab
+
+Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions 
+https://github.com/rcarra-arq/terraform-docker-lab
+
+Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions 
+https://github.com/rcarra-arq/terraform-aws-ec2-lab
 
 Currently focused on: AWS Cloud Practitioner certification · CI/CD automation · Linux and networking
 
@@ -20,10 +25,14 @@ Desenvolvendo habilidades práticas em Cloud Computing e DevOps, com foco em AWS
 Tecnologias: Docker · Git & GitHub · GitHub Actions · Linux · AWS (EC2, S3, IAM, VPC)
 
 Projetos
-terraform-aws-ec2-lab — EC2 com Terraform (IaC puro)  - https://github.com/rcarra-arq/cloud-monitoring-lab
-Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions https://github.com/rcarra-arq/terraform-docker-lab
-Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions https://github.com/rcarra-arq/terraform-aws-ec2-lab
+terraform-aws-ec2-lab — EC2 com Terraform (IaC puro) 
+https://github.com/rcarra-arq/cloud-monitoring-lab
 
+Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions 
+https://github.com/rcarra-arq/terraform-docker-lab
+
+Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions 
+https://github.com/rcarra-arq/terraform-aws-ec2-lab
 Foco atual: Certificação AWS Cloud Practitioner · Automação com CI/CD · Linux e redes
 
 Objetivo: Atuar como Cloud / DevOps / Infraestrutura Júnior
