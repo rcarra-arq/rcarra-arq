@@ -6,13 +6,13 @@ Technologies: Docker · Git & GitHub · GitHub Actions · Linux · AWS (EC2, S3,
 
 Projects
 terraform-aws-ec2-lab — EC2 com Terraform (IaC puro) 
-https://github.com/rcarra-arq/cloud-monitoring-lab
+https://github.com/rcarra-arq/terraform-aws-ec2-lab
 
 Terraform Docker Lab — EC2 + Docker + Nginx + GitHub Actions 
 https://github.com/rcarra-arq/terraform-docker-lab
 
 Cloud Monitoring DevOps Lab — CI/CD completo com Docker e GitHub Actions 
-https://github.com/rcarra-arq/terraform-aws-ec2-lab
+https://github.com/rcarra-arq/cloud-monitoring-lab
 
 Currently focused on: AWS Cloud Practitioner certification · CI/CD automation · Linux and networking
 
