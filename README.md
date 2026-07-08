@@ -1,4 +1,5 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 
 # *DevOps / Cloud Learning Journey*
 ---
