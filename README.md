@@ -1,3 +1,5 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 # *DevOps / Cloud Learning Journey*
 ---
 Building practical skills in Cloud Computing and DevOps, focusing on AWS, Docker, Linux, and CI/CD pipelines.
