@@ -1,4 +1,4 @@
-DevOps / Cloud Learning Journey
+# *DevOps / Cloud Learning Journey*
 ---
 Building practical skills in Cloud Computing and DevOps, focusing on AWS, Docker, Linux, and CI/CD pipelines.
 
@@ -18,7 +18,7 @@ Currently focused on: AWS Cloud Practitioner certification · CI/CD automation �
 
 Goal: Junior Cloud / DevOps / Infrastructure role
 ---
-🇧🇷 Jornada DevOps / Cloud
+# *Jornada DevOps / Cloud* PT/BR
 ---
 Desenvolvendo habilidades práticas em Cloud Computing e DevOps, com foco em AWS, Docker, Linux e pipelines de CI/CD.
 
