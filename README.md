@@ -12,7 +12,7 @@ Technologies: Docker · Git & GitHub · GitHub Actions · Linux · AWS (EC2, S3,
 ---
 Projects
 
-• AWS Highly Available Web Application — Provisioning a highly available AWS infrastructure using Terraform, featuring a custom VPC, Application Load Balancer, Auto Scaling Group, EC2 instances running Nginx, and CI validation with GitHub Actions.
+• AWS Highly Available Web Application — Provisioning a highly available AWS infrastructure using Terraform, featuring a custom VPC, Application Load Balancer, Auto Scaling Group, EC2 instances running Nginx, and CI validation with GitHub Actions. 
 https://github.com/rcarra-arq/aws-highly-available-webapp-terraform
 
 • Terraform AWS EC2 Lab — Provisioning AWS EC2 infrastructure using Terraform (Infrastructure as Code).
