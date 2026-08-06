@@ -38,6 +38,7 @@ A Python tool that audits cloud resources for missing cost-allocation tags
 (`Project`, `Environment`, `Owner`) — the enforcement side of FinOps tagging.
 Reads real AWS resources read-only via boto3, with CI-friendly exit codes so a
 pipeline can fail on untagged resources.
+*The project I was most interested in researching and building.*
 https://github.com/rcarra-arq/finops-tag-auditor
 
 **Cloud Monitoring DevOps Lab (Docker + Prometheus/Grafana)** — `Reliability` · `Observability`
@@ -93,6 +94,7 @@ de custo faltando (`Project`, `Environment`, `Owner`) — o lado da fiscalizaç�
 do tagging de FinOps. Lê recursos reais da AWS em modo somente leitura via
 boto3, com códigos de saída amigáveis a CI para um pipeline falhar em recursos
 sem tag.
+*Foi o projeto que eu mais me interessei em pesquisar e construir.*
 https://github.com/rcarra-arq/finops-tag-auditor
 
 **Cloud Monitoring DevOps Lab (Docker + Prometheus/Grafana)** — `Confiabilidade` · `Observabilidade`
