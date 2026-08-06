@@ -61,6 +61,10 @@ Currently focused on: AWS Cloud Practitioner certification · FinOps practices �
 
 Goal: Junior Cloud / DevOps / Infrastructure role
 
+These are the projects I've been building so far. Feel free to send me a message if there's anything I can help with. 🙂
+
+💬 [LinkedIn](https://www.linkedin.com/in/renata-carra/)
+
 ---
 
 ## Português
@@ -117,3 +121,7 @@ https://github.com/rcarra-arq/cicd-jenkins-ansible-k8s
 Foco atual: Certificação AWS Cloud Practitioner · Práticas de FinOps · Automação com CI/CD · Linux e redes
 
 Objetivo: Atuar como Cloud / DevOps / Infraestrutura Júnior
+
+Esses são os projetos que venho desenvolvendo até agora. Fique à vontade para me mandar uma msg se eu puder contribuir com alguma coisa. 🙂
+
+💬 [LinkedIn](https://www.linkedin.com/in/renata-carra/)
