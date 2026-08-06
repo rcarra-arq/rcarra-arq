@@ -11,8 +11,14 @@
 
 **🇺🇸 English** · [🇧🇷 Português](#português)
 
-Building practical Cloud and DevOps skills, with a focus on cost governance
-(FinOps), reliability, and CI/CD automation on AWS.
+I'm **Renata**, an architect and urban planner. For many years I designed and
+coordinated projects for large construction companies — and I used to joke that
+my real job was solving problems. Today I understand those are the same skills
+that hold up good cloud architecture: understanding complex systems, weighing
+limitations, and finding the most suitable solution. I'm transitioning into
+Cloud, specializing in AWS through Escola da Nuvem, and I learn by building:
+when a lab breaks, I research, test, and dig into the root cause instead of
+giving up.
 
 **Technologies:** Docker · Terraform · Git & GitHub · GitHub Actions · Jenkins ·
 Ansible · Kubernetes · Prometheus / Grafana · Python (boto3) · Linux ·
@@ -60,8 +66,13 @@ Goal: Junior Cloud / DevOps / Infrastructure role
 
 [🇺🇸 English ⬆](#cloud--devops--building-toward-finops--reliability)
 
-Desenvolvendo habilidades práticas em Cloud e DevOps, com foco em governança de
-custos (FinOps), confiabilidade e automação de CI/CD na AWS.
+Sou a **Renata**, arquiteta e urbanista. Trabalhei muitos anos desenvolvendo e
+compatibilizando projetos para grandes construtoras — e brincava que minha
+função era resolver problemas. Hoje entendo que são as mesmas competências que
+sustentam uma boa arquitetura de nuvem: entender sistemas complexos, avaliar
+limitações e encontrar a solução mais adequada. Estou em transição para Cloud,
+me especializando em AWS pela Escola da Nuvem, e aprendo construindo: quando um
+lab quebra, eu pesquiso, testo e entendo a causa em vez de desistir.
 
 **Tecnologias:** Docker · Terraform · Git & GitHub · GitHub Actions · Jenkins ·
 Ansible · Kubernetes · Prometheus / Grafana · Python (boto3) · Linux ·
